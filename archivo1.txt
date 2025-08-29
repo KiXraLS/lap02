@@ -1,1 +1,5 @@
+Este es el archivo inicial local
 
+#archivo modificado por estudiante2
+
+#Archivo modificado 
